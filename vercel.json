@@ -1,6 +1,3 @@
-// api/claude.js
-// This runs on Vercel's servers — your API key never touches the browser
-
 export const config = {
   runtime: 'edge',
 };
