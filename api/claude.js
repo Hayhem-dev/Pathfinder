@@ -5,14 +5,3 @@
     }
   }
 }
-```
-
----
-
-**Your project folder should look like this:**
-```
-pathfinder/
-├── pathfinder.html
-├── vercel.json
-└── api/
-    └── claude.js
